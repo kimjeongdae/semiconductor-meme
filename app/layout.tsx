@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "반도체 밈 생성기",
-  description: "반도체 엔지니어들의 현실 밈 생성기",
+  description: "반도체 엔지니어 밈 생성기",
 };
 
 export default function RootLayout({
